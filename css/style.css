@@ -1,0 +1,29 @@
+body {
+	background-image: url(white.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: auto;
+	background-position: center;
+}
+#map {
+	position: center;
+}
+#map{	
+	height: 550px;
+    width: 450px;
+    margin: 0 auto;
+    zoom: 1;
+    border: 0.2px solid black;
+}
+h1 {
+	text-decoration: underline;
+	text-align: center;
+	color: green;
+	font-family: Copperplate Gothic Light;
+}
+p {
+	text-align: center;
+	font-family: Copperplate Gothic Light;
+	color: blue;
+	text-decoration: underline;
+}
